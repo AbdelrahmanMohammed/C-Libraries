@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\abdel\desktop\c-libraries\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1644949078 source:c:\users\abdel\desktop\c-libraries\math.c
+
+1644949383 source:c:\users\abdel\desktop\c-libraries\max_min_numbers.c
+
+1644949036 source:c:\users\abdel\desktop\c-libraries\sorting.c
+
+1644949610 source:c:\users\abdel\desktop\c-libraries\string.c
+
+1644968117 source:c:\users\abdel\desktop\c-libraries\utilities.c
+
